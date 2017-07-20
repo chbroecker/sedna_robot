@@ -19,6 +19,6 @@
     version: kinetic
 - git:
     local-name: sedna_robot
-    uri: https://www.github.com/juliangaal/sedna_robot.git
+    uri: https://www.github.com/chbroecker/sedna_robot.git
     version: kinetic
 
